@@ -1,0 +1,17 @@
+[{
+    "id": 1,
+    "name": "Hair dryder",
+    "category": "Grooming",
+    "availablity": true,
+    "image": "https://m.media-amazon.com/images/I/51FGbb3EbgL._SY450_.jpg",
+    "actualPrice": 100.01,
+    "salesPrice": 99
+}, {
+    "id": 2,
+    "name": "Cricket bat",
+    "category": "Sports",
+    "availablity": false,
+    "image": "https://4.imimg.com/data4/GS/QT/MY-3092797/cricket-bat-500x500.jpg",
+    "actualPrice": 1000,
+    "salesPrice": 999
+}]
